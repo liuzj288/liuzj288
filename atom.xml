@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2020-12-25T07:42:40.068Z</updated>
+    <updated>2020-12-25T08:18:12.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -17,12 +17,14 @@
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
         <content type="html"><![CDATA[<h2 id="博主是谁">👨‍💻 博主是谁</h2>
-<p>昵 称：爱咪哆<br>
-星 座：水瓶座<br>
-生 日：1991-02-01<br>
-邮 箱：<a href="mailto:liuzj288@hotmail.com">liuzj288@hotmail.com</a><br>
-职 业：佛系叫狮，哔哩UP主，科技工作者，风景摄影师，三流代码猴，ACG爱好者，……<br>
-爱 好：目前崇尚极简主义，所以人情观念极其淡薄，也不太喜欢如今让生活变得臃肿的社交媒体（QQ动态和微信朋友圈已经多年未更新了），力推Markdown写作。</p>
+<ul>
+<li>昵 称：爱咪哆</li>
+<li>星 座：水瓶座</li>
+<li>生 日：1991-02-01</li>
+<li>邮 箱：<a href="mailto:liuzj288@hotmail.com">liuzj288@hotmail.com</a></li>
+<li>职 业：佛系叫狮，哔哩UP主，科技工作者，风景摄影师，三流代码猴，ACG爱好者，……</li>
+<li>爱 好：目前崇尚极简主义，所以人情观念极其淡薄，也不太喜欢如今让生活变得臃肿的社交媒体（QQ动态和微信朋友圈已经多年未更新了），力推Markdown写作。</li>
+</ul>
 <h2 id="联系我呀">📬 联系我呀</h2>
 <p>以下是能联系到我的其他方法：</p>
 <ul>
@@ -37,7 +39,10 @@
 <li>通常一天检查一次邮件和私信。但本人既无法保证回复时间，也不能做到有问必答，请理解！</li>
 </ul>
 <h2 id="关于本站">🏠 关于本站</h2>
-<p>本站是个人网站，使用<a href="https://pages.github.com/">Github Pages</a>和<a href="https://gridea.dev/">Gridea</a>搭建管理维护，域名购买于<a href="https://cn.aliyun.com/">阿里云中国</a>，源码托管在<a href="https://github.com/liuzj288">GitHub</a>上，所有文章都基于Markdown创建，如无特别注明均为本人撰写，仅代表个人当时的思想（很久以前的博文可能并不代表我现在的想法，毕竟人会成长……），与其他任何人或组织无关！</p>
+<ul>
+<li>本站是个人网站，使用<a href="https://pages.github.com/">Github Pages</a>和<a href="https://gridea.dev/">Gridea</a>搭建管理维护，域名购买于<a href="https://cn.aliyun.com/">阿里云</a>，源码托管在<a href="https://github.com/liuzj288">GitHub</a>上，所有文章都基于Markdown创建</li>
+<li>如无特别注明均为本人撰写，仅代表个人当时的思想（很久以前的博文可能并不代表我现在的想法，毕竟人会成长……），与其他任何人或组织无关！</li>
+</ul>
 <h2 id="版权说明">📓 版权说明</h2>
 <p>请遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>的创作共享协议，如果真有商业性使用，请先通过前面提供的联系方式联系我。</p>
 <h2 id="友情链接">👱 友情链接</h2>
@@ -45,6 +50,7 @@
 以下排名不分先后：</p>
 <ul>
 <li><a href="https://terrytao.wordpress.com/">陶哲轩</a>：UCLA，数学</li>
+<li><a href="http://www.matrix67.com/blog/">顾森</a>：数学，科普</li>
 </ul>
 ]]></content>
     </entry>
