@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2020-12-25T16:05:21.625Z</updated>
+    <updated>2020-12-25T18:52:57.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -48,6 +48,8 @@
 </ul>
 <h2 id="友情链接">👱 友情链接</h2>
 <p><strong><center>个人</center></strong></p>
+<p align="right"> [顾森](http://www.matrix67.com/blog/)[简体](1) [繁體](1) [EN](1)</p>
+<div style="text-align: right"> [顾森](http://www.matrix67.com/blog/) </div>
 <p>以下排名不分先后：</p>
 <ul>
 <li><a href="http://www.matrix67.com/blog/">顾森</a>：数学，科普</li>
