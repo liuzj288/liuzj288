@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2020-12-25T19:17:44.799Z</updated>
+    <updated>2020-12-25T19:19:48.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -16,8 +16,8 @@
         <link href="https://liuzj288.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="#%E7%AE%80%E4%BD%93">简体</a> <a href="#%E7%B9%81%E9%AB%94">繁體</a> <a href="#EN">EN</a></p>
-<h1 id="简体">简体</h1>
+        <content type="html"><![CDATA[<p><a href="#%E4%B8%AD%E6%96%87">中文</a> <a href="#en">EN</a></p>
+<h1 id="中文">中文</h1>
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
 <ul>
 <li>昵 称：爱咪哆</li>
@@ -57,7 +57,6 @@
 <li><a href="https://www.cnblogs.com/wanghai0666/">静雅斋</a>：数学，科普</li>
 <li><a href="https://terrytao.wordpress.com/">陶哲轩</a>：UCLA，数学</li>
 </ul>
-<h1 id="繁體">繁體</h1>
 <h1 id="en">EN</h1>
 ]]></content>
     </entry>
