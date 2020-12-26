@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2020-12-25T19:19:48.659Z</updated>
+    <updated>2020-12-26T05:09:46.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://liuzj288.github.io/images/avatar.png</logo>
     <icon>https://liuzj288.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘老师说</rights>
+    <entry>
+        <title type="html"><![CDATA[友情链接]]></title>
+        <id>https://liuzj288.github.io/post/links/</id>
+        <link href="https://liuzj288.github.io/post/links/">
+        </link>
+        <updated>2020-12-26T05:08:56.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://liuzj288.github.io/post-images/1608959360143.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于本站 About]]></title>
         <id>https://liuzj288.github.io/post/about/</id>
@@ -49,8 +58,7 @@
 <li>请遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>的创作共享协议，如果真有商业性使用，请先通过前面提供的联系方式联系我。</li>
 </ul>
 <h2 id="友情链接">👱 友情链接</h2>
-<p><strong><center>个人</center></strong><br>
-以下排名不分先后：</p>
+<p>以下排名不分先后：</p>
 <ul>
 <li><a href="http://blog.sina.com.cn/meicong0573">陈美葱</a>：数学，手写</li>
 <li><a href="http://www.matrix67.com/blog/">顾森</a>：数学，科普</li>
@@ -58,6 +66,11 @@
 <li><a href="https://terrytao.wordpress.com/">陶哲轩</a>：UCLA，数学</li>
 </ul>
 <h1 id="en">EN</h1>
+<p>自动折叠语法</p>
+<details>
+<summary>Title</summary>
+<p>content!!!</p>
+</details>
 ]]></content>
     </entry>
 </feed>
