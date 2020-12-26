@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2020-12-26T10:10:34.000Z</updated>
+    <updated>2020-12-26T17:57:03.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -16,16 +16,34 @@
         <link href="https://liuzj288.github.io/post/links/">
         </link>
         <updated>2020-12-26T05:08:56.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://liuzj288.github.io/post-images/1608977413597.jpg" alt="" loading="lazy"></figure>
+        <summary type="html"><![CDATA[<p>和 Medium、简书之类的写作平台不同，每一个独立博客都是一个信息孤岛。我们没有类似「你可能喜欢其他人写的这些文章」的推荐机制，所以除了搜索引擎、社交网络引荐之外，我们应该还需要通过某种方法将这些信息孤岛连接起来：交换友情链接就是一种很棒的架桥方式。所以，如果你正好看到了这个页面，不妨往下翻翻，看看下面的链接中有没有什么你感兴趣的内容。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>和 Medium、简书之类的写作平台不同，每一个独立博客都是一个信息孤岛。我们没有类似「你可能喜欢其他人写的这些文章」的推荐机制，所以除了搜索引擎、社交网络引荐之外，我们应该还需要通过某种方法将这些信息孤岛连接起来：交换友情链接就是一种很棒的架桥方式。所以，如果你正好看到了这个页面，不妨往下翻翻，看看下面的链接中有没有什么你感兴趣的内容。</p>
+<!-- more -->
+<figure data-type="image" tabindex="1"><img src="https://liuzj288.github.io/post-images/1608977413597.jpg" alt="" loading="lazy"></figure>
+<h2 id="友情链接">👱 友情链接</h2>
+<p>以下排名不分先后：</p>
+<ul>
+<li><a href="http://kuing.orzweb.net/">Kuing</a>：数学，不等式</li>
+<li><a href="http://blog.sina.com.cn/meicong0573">陈美葱</a>：数学，手写</li>
+<li><a href="http://www.matrix67.com/blog/">顾森</a>：数学，科普</li>
+<li><a href="https://www.cnblogs.com/wanghai0666/">静雅斋</a>：数学，科普</li>
+<li><a href="https://terrytao.wordpress.com/">陶哲轩</a>：UCLA，数学</li>
+<li><a href="http://blog.sina.com.cn/u/2060010007">战巡</a>：数学，统计</li>
+</ul>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于本站 About]]></title>
+        <title type="html"><![CDATA[关于本站以及个人简介]]></title>
         <id>https://liuzj288.github.io/post/about/</id>
         <link href="https://liuzj288.github.io/post/about/">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="#%E4%B8%AD%E6%96%87">中文</a> <a href="#en">EN</a></p>
+        <summary type="html"><![CDATA[<p>本站点是我的个人网站，从开始建设到今天可谓是一波多折。虽然我本身不是做网络开发，但是对网站有一点的爱好，建立这个站点一方面为了写自己的博客与大家分享，另一方面是为了写自己的非技术心得和自己现阶段的状况。时光匆匆，总要留下点什么来回忆。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>本站点是我的个人网站，从开始建设到今天可谓是一波多折。虽然我本身不是做网络开发，但是对网站有一点的爱好，建立这个站点一方面为了写自己的博客与大家分享，另一方面是为了写自己的非技术心得和自己现阶段的状况。时光匆匆，总要留下点什么来回忆。</p>
+<!-- more -->
+<p><a href="#%E4%B8%AD%E6%96%87">中文</a> <a href="#en">EN</a></p>
 <h1 id="中文">中文</h1>
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
 <ul>
@@ -50,20 +68,22 @@
 </ul>
 <h2 id="关于本站">🏠 关于本站</h2>
 <ul>
-<li>本站是个人网站，使用<a href="https://pages.github.com/">Github Pages</a>和<a href="https://gridea.dev/">Gridea</a>搭建管理维护，域名购买于<a href="https://cn.aliyun.com/">阿里云</a>，源码托管在<a href="https://github.com/liuzj288">GitHub</a>上，所有文章都基于Markdown创建。</li>
+<li>本站是个人网站，使用<a href="https://pages.github.com/">Github Pages</a>和<a href="https://gridea.dev/">Gridea</a>管理维护，域名购买于<a href="https://cn.aliyun.com/">阿里云</a>，源码托管在<a href="https://github.com/liuzj288">GitHub</a>上，所有文章都基于Markdown创建。</li>
 <li>如无特别注明均为本人撰写，仅代表个人当时的思想（很久以前的博文可能并不代表我现在的想法，毕竟人会成长……），与其他任何人或组织无关！</li>
+</ul>
+<h2 id="网站历史">📝网站历史</h2>
+<ul>
+<li>2010年开始更新自己的<a href="http://blog.sina.com.cn/liuzj288">新浪博客</a>，开始创作之旅</li>
+<li>2012年购入了<a href="https://bbs.piaoxian.net/">西部稳速</a>的虚拟空间，开始自建网站之路</li>
+<li>2013年注册试用了免费的<a href="http://orzweb.net/">SCLUB</a>论坛建站系统，向Kuing推荐之后其<a href="http://kuing.orzweb.net/">悠闲数学娱乐论坛</a>至今仍在使用</li>
+<li>2015年购入了<a href="https://bandwagonhost.com/">BandwagonHost</a>的VPS，开始学习PHP</li>
+<li>2018年购入了NAS，在本地搭建了一些有意思的网站，博客开始使用<a href="https://wordpress.org/">wordpress</a></li>
+<li>2019年购入了域名<a href="https://snas.online">snas.online</a>，有效期至2029-02-23，开始接触并学习Markdown</li>
+<li>2020年把源码转移到了<a href="https://github.com/liuzj288">GitHub</a>，使用Jekyll搭建静态博客，使用<a href="https://gridea.dev/">Gridea</a>管理维护</li>
 </ul>
 <h2 id="版权说明">📓 版权说明</h2>
 <ul>
 <li>请遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>的创作共享协议，如果真有商业性使用，请先通过前面提供的联系方式联系我。</li>
-</ul>
-<h2 id="友情链接">👱 友情链接</h2>
-<p>以下排名不分先后：</p>
-<ul>
-<li><a href="http://blog.sina.com.cn/meicong0573">陈美葱</a>：数学，手写</li>
-<li><a href="http://www.matrix67.com/blog/">顾森</a>：数学，科普</li>
-<li><a href="https://www.cnblogs.com/wanghai0666/">静雅斋</a>：数学，科普</li>
-<li><a href="https://terrytao.wordpress.com/">陶哲轩</a>：UCLA，数学</li>
 </ul>
 <h1 id="en">EN</h1>
 <p>自动折叠语法</p>
