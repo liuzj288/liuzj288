@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2020-12-26T18:05:24.190Z</updated>
+    <updated>2020-12-27T07:55:03.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -11,15 +11,28 @@
     <icon>https://liuzj288.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 小刘老师说</rights>
     <entry>
+        <title type="html"><![CDATA[数学日历]]></title>
+        <id>https://liuzj288.github.io/post/shu-xue-ri-li/</id>
+        <link href="https://liuzj288.github.io/post/shu-xue-ri-li/">
+        </link>
+        <updated>2020-12-27T07:32:24.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="2019">2019</h2>
+<h2 id="2015">2015</h2>
+<p>每天都实用一个数学公式、图形或游戏来表示，有的有趣（比如7月5日），有的颇有些技巧（比如1月6日），有的卖萌（比如11月8日），有的可以帮助人温习数学基础知识（比如5月1日），有的是在向经典问题致敬（比如9月7日），也有不少颇为费解的，恐怕要数学专业人士才能看得懂了。虽说也有一些有滥竽充数之嫌的，但凑出365种数学游戏也还是颇为不易的。<a href="http://bzhang.lamost.org/upload/science/2015calendar.pdf">点击下载</a></p>
+<center><embed src="http://bzhang.lamost.org/upload/science/2015calendar.pdf" width="850" height="600"></center>
+<iframe src="http://bzhang.lamost.org/upload/science/2015calendar.pdf" style="width:300px; height:100px;" frameborder="0"></iframe>
+<iframe src="http://bzhang.lamost.org/upload/science/2015calendar.pdf&embedded=true" style="width:500px; height:100px;" frameborder="0"></iframe>
+<h2 id="2014-国际数学家大会台历">2014 国际数学家大会台历</h2>
+<p>2014 年韩国首尔举行国际数学家大会<a href="http://www.icm2014.org/">SEOUL ICM 2014</a>中，组委会曾制作了一套数学主题的台历，里面使用数学内容与日历的每一天相映成趣。日历包含从小学水平的简单内容到只有数学家才能理解的挑战难度，从常见的算术运算到复杂的表达式，从趣味笑话到严肃的数学事实。里面为更是还包括了SEOUL ICM2014的主要会议日程表。我们可以透过下面“SEOUL ICM 2014数学日历”来体会设计者的精巧设计吧。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[友情链接]]></title>
         <id>https://liuzj288.github.io/post/links/</id>
         <link href="https://liuzj288.github.io/post/links/">
         </link>
         <updated>2020-12-26T05:08:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>和 Medium、简书之类的写作平台不同，每一个独立博客都是一个信息孤岛。我们没有类似「你可能喜欢其他人写的这些文章」的推荐机制，所以除了搜索引擎、社交网络引荐之外，我们应该还需要通过某种方法将这些信息孤岛连接起来：交换友情链接就是一种很棒的架桥方式。所以，如果你正好看到了这个页面，不妨往下翻翻，看看下面的链接中有没有什么你感兴趣的内容。</p>
-]]></summary>
         <content type="html"><![CDATA[<p>和 Medium、简书之类的写作平台不同，每一个独立博客都是一个信息孤岛。我们没有类似「你可能喜欢其他人写的这些文章」的推荐机制，所以除了搜索引擎、社交网络引荐之外，我们应该还需要通过某种方法将这些信息孤岛连接起来：交换友情链接就是一种很棒的架桥方式。所以，如果你正好看到了这个页面，不妨往下翻翻，看看下面的链接中有没有什么你感兴趣的内容。</p>
-<!-- more -->
 <figure data-type="image" tabindex="1"><img src="https://liuzj288.github.io/post-images/1608977413597.jpg" alt="" loading="lazy"></figure>
 <h2 id="友情链接">👱 友情链接</h2>
 <p>以下排名不分先后：</p>
