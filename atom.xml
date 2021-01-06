@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2021-01-06T18:02:06.633Z</updated>
+    <updated>2021-01-06T18:06:58.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -108,6 +108,11 @@
 <ul>
 <li>我很少用 QQ或微信，因为即时聊天会打乱时间的完整性，我希望能有整块的时间集中做事情，而不是盯着几个聊天窗口打着零碎的句子。</li>
 <li>推荐使用电子邮件联系我，同时请一次性把问题描述清楚。通常一天检查一次邮件和私信。但本人既无法保证回复时间，也不能做到有问必答，请理解！</li>
+</ul>
+<h2 id="近期项目">👨‍💻 近期项目</h2>
+<ul>
+<li>学生成绩跟踪分析系统(Excel版)</li>
+<li>弹幕保存计划/DanmuGenius弹幕下载器</li>
 </ul>
 <h2 id="关于本站">🏠 关于本站</h2>
 <ul>
