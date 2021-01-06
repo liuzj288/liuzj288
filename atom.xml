@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2021-01-06T18:25:23.374Z</updated>
+    <updated>2021-01-06T18:28:15.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -87,7 +87,7 @@
 <!-- more -->
 <p><a href="#%E4%B8%AD%E6%96%87">中文</a> <a href="#en">EN</a></p>
 <h1 id="中文">中文</h1>
-<figure data-type="image" tabindex="1"><img src="/images/phto.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="1"><img src="/master/images/phto.jpg" alt="" loading="lazy"></figure>
 <h2 id="博主是谁">👨‍💻 博主是谁</h2>
 <ul>
 <li>昵 称：爱咪哆</li>
