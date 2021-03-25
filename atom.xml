@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2021-03-25T00:32:32.175Z</updated>
+    <updated>2021-03-25T00:36:03.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -117,26 +117,6 @@
 <li><a href="https://movie.douban.com/subject/34456076/">大欺诈师</a></li>
 <li><a href="https://movie.douban.com/subject/5908516/">白兔糖</a></li>
 <li><a href="https://movie.douban.com/subject/27047873/">宝石之国</a></li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[友情链接]]></title>
-        <id>https://liuzj288.github.io/post/links/</id>
-        <link href="https://liuzj288.github.io/post/links/">
-        </link>
-        <updated>2020-12-26T05:08:56.000Z</updated>
-        <content type="html"><![CDATA[<p>和 Medium、简书之类的写作平台不同，每一个独立博客都是一个信息孤岛。我们没有类似「你可能喜欢其他人写的这些文章」的推荐机制，所以除了搜索引擎、社交网络引荐之外，我们应该还需要通过某种方法将这些信息孤岛连接起来：交换友情链接就是一种很棒的架桥方式。所以，如果你正好看到了这个页面，不妨往下翻翻，看看下面的链接中有没有什么你感兴趣的内容。</p>
-<figure data-type="image" tabindex="1"><img src="https://liuzj288.github.io/post-images/1608977413597.jpg" alt="" loading="lazy"></figure>
-<h2 id="友情链接">👱 友情链接</h2>
-<p>以下排名不分先后：</p>
-<ul>
-<li><a href="http://kuing.orzweb.net/">Kuing</a>：数学，不等式</li>
-<li><a href="http://blog.sina.com.cn/meicong0573">陈美葱</a>：数学，手写</li>
-<li><a href="http://www.matrix67.com/blog/">顾森</a>：数学，科普</li>
-<li><a href="https://www.cnblogs.com/wanghai0666/">静雅斋</a>：数学，科普</li>
-<li><a href="https://terrytao.wordpress.com/">陶哲轩</a>：UCLA，数学</li>
-<li><a href="http://blog.sina.com.cn/u/2060010007">战巡</a>：数学，统计</li>
 </ul>
 ]]></content>
     </entry>
