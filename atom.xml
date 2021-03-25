@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liuzj288.github.io</id>
     <title>小刘老师说</title>
-    <updated>2021-03-25T01:44:43.016Z</updated>
+    <updated>2021-03-25T01:45:12.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liuzj288.github.io"/>
     <link rel="self" href="https://liuzj288.github.io/atom.xml"/>
@@ -10,19 +10,6 @@
     <logo>https://liuzj288.github.io/images/avatar.png</logo>
     <icon>https://liuzj288.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 小刘老师说</rights>
-    <entry>
-        <title type="html"><![CDATA[番剧推荐]]></title>
-        <id>https://liuzj288.github.io/post/annie/</id>
-        <link href="https://liuzj288.github.io/post/annie/">
-        </link>
-        <updated>2021-03-23T08:16:52.000Z</updated>
-        <summary type="html"><![CDATA[<p>作为重度动漫爱好者，这里推荐下我觉得不错的动漫。<br>
-<img src="https://liuzj288.github.io/post-images/1616636077210.jpg" alt="" loading="lazy"></p>
-]]></summary>
-        <content type="html"><![CDATA[<p>作为重度动漫爱好者，这里推荐下我觉得不错的动漫。<br>
-<img src="https://liuzj288.github.io/post-images/1616636077210.jpg" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[关于本站]]></title>
         <id>https://liuzj288.github.io/post/about/</id>
